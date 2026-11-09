@@ -10,7 +10,7 @@
 
 Bu politika, App Store'da "Üretim Planlama Programı" adıyla yayınlanan uygulama (iOS ve Android; "Uygulama") için geçerlidir. Uygulama, lokomotif onarım ve üretim takibinde görevli yetkili personel için hazırlanmış, yalnızca okuma yapan bir iç kullanım uygulamasıdır. Genel kullanıma açık değildir.
 
-**Geliştirici:** [Çağatay Akkaş / Mavi Proje]
+**Geliştirici:** Çağatay Akkaş / Mavi Proje
 
 ### Toplanan veriler
 
@@ -44,7 +44,7 @@ Bu politika değişirse bu sayfa güncellenir; sayfanın başındaki tarih deği
 
 ### İletişim ve destek
 
-Sorularınız ve destek talepleriniz için: [cagatayakkas9191@gmail.com]
+Sorularınız ve destek talepleriniz için: cagatayakkas9191@gmail.com
 
 ---
 
