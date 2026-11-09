@@ -1,4 +1,4 @@
-# Mavi Proje Takip — Gizlilik Politikası / Privacy Policy
+# Üretim Planlama Programı — Gizlilik Politikası / Privacy Policy
 
 *Son güncelleme / Last updated: 9 Kasım 2026 / November 9, 2026*
 
@@ -8,7 +8,7 @@
 
 ## Türkçe
 
-Bu politika, App Store'da "Üretim Planlama Programı" adıyla yayınlanan Mavi Proje Takip mobil uygulaması (iOS ve Android; "Uygulama") için geçerlidir. Uygulama, TÜRASAŞ'ın lokomotif onarım ve üretim takibinde görevli yetkili personel için hazırlanmış, yalnızca okuma yapan bir iç kullanım uygulamasıdır. Genel kullanıma açık değildir.
+Bu politika, App Store'da "Üretim Planlama Programı" adıyla yayınlanan uygulama (iOS ve Android; "Uygulama") için geçerlidir. Uygulama, lokomotif onarım ve üretim takibinde görevli yetkili personel için hazırlanmış, yalnızca okuma yapan bir iç kullanım uygulamasıdır. Genel kullanıma açık değildir.
 
 **Geliştirici:** [Çağatay Akkaş / Mavi Proje]
 
@@ -52,9 +52,9 @@ Sorularınız ve destek talepleriniz için: [cagatayakkas9191@gmail.com]
 
 ## English
 
-This policy applies to the Mavi Proje Takip mobile app for iOS and Android (the "App"), published on the App Store as "Üretim Planlama Programı". The App is a read-only internal tool for the authorized staff of TÜRASAŞ who track locomotive maintenance and production. It is not intended for the general public.
+This policy applies to the app published on the App Store as "Üretim Planlama Programı" (iOS and Android; the "App"). The App is a read-only internal tool for the authorized staff who track locomotive maintenance and production. It is not intended for the general public.
 
-**Developer:** [Çağatay Akkaş / Mavi Proje]
+**Developer:** Çağatay Akkaş / Mavi Proje
 
 ### Data we collect
 
@@ -88,4 +88,4 @@ If this policy changes, this page will be updated and the date at the top will c
 
 ### Contact and support
 
-For questions and support requests: [cagatayakkas9191@gmail.com]
+For questions and support requests: cagatayakkas9191@gmail.com
